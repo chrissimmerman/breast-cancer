@@ -120,7 +120,7 @@ It includes numeric features extracted from digitized FNA (Fine Needle Aspirate)
 - Build an **interactive dashboard** with Plotly or Streamlit  
 
 ## License  
-MIT License (or replace with your own).
+MIT License.
 
 ## Acknowledgments  
 - Dataset creators at the University of Wisconsin & UC Irvine.  
