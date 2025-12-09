@@ -1,4 +1,4 @@
-# Breast Cancer Classification using PCA + Logistic Regression  
+# Breast Cancer Diagnosis Prediction Using Logistic Regression and Principal Component Analysis  
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)  
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-ML%20Pipeline-orange.svg)  
 ![License](https://img.shields.io/badge/License-MIT-green.svg)  
